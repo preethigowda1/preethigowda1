@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @preethigowda1
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Mtech
+- 🌱 I’m currently persuing Mtech
 - 💞️ I’m looking to collaborate on Machine Learning projects
 - 📫 How to reach me gowdapreethi388@gmail.com
 
